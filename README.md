@@ -1,5 +1,5 @@
 Simple-Address-Book
 ===================
-![http://imgur.com/4synII0](image)
+![http://i.imgur.com/4synII0.png](image)
 
-This Is a simple PHP address book.
+This is a simple. yet efficient PHP address book.
